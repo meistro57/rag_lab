@@ -1,0 +1,6 @@
+chromadb
+requests
+tqdm
+pypdf
+python-docx
+pdfminer.six
